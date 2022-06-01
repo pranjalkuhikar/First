@@ -43,6 +43,8 @@ Text that is a `Quote` Text.
 | ---     | ---     | ---   |
 | Pranjal | Kuhikar | 3     |
 
+![](https://shields.io/badge/Html-Black?logo=Html5) ![](https://shields.io/badge/CSS-black?logo=CSS3)
+
 This is a Link [Google](http://www.google.com)
 
-![This is Image](Pranjal.jpg)
+![This is Image](Vincenzo.jpg)
