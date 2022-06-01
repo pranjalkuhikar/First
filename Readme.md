@@ -45,4 +45,4 @@ Text that is a `Quote` Text.
 
 This is a Link [Google](http://www.google.com)
 
-![This is Image](/First/Pranjal.jpg)
+![This is Image](Pranjal.jpg)
